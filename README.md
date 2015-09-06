@@ -13,7 +13,7 @@ The controls are the following:
 START - start the game.
 UP and DOWN - move the China paddle.
 
-This game/software was in development between the 2014/11/10 - 2014/12/14 in my free-time.
+This game/software was in development between the 2014/11/10 - 2014/12/14 in my free-time. The code has not been improved since then.
 
 Ping-pong diplomacy.
 
